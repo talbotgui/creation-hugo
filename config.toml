@@ -6,4 +6,4 @@ theme = "hugo-theme-learn"
 metaDataFormat= "yaml"
 
 [params]
-search = false
+search = true
