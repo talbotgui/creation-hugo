@@ -1,0 +1,9 @@
+baseurl = "https://talbotgui.github.io/"
+languageCode = "fr-fr"
+title = "mySite"
+contentdir = "docs"
+theme = "hugo-theme-learn"
+metaDataFormat= "yaml"
+
+[params]
+search = false
